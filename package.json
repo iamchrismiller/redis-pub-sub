@@ -1,9 +1,18 @@
 {
   "name": "redis-pubsub",
   "version": "0.0.1",
+  "author": "Chris Miller <cmille142@gmail.com>",
+  "main": "lib/redisPubSub.js",
+  "directories": {
+    "lib": "lib"
+  },
   "dependencies": {
     "nohm": "~0.9.3",
     "hiredis": "~0.1.15",
     "redis": "~0.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iamchrismiller/redis-pub-sub.git"
   }
 }
