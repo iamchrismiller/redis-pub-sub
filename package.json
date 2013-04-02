@@ -1,5 +1,5 @@
 {
-  "name": "redis-pubsub",
+  "name": "redis-pub-sub",
   "version": "0.0.1",
   "author": "Chris Miller <cmille142@gmail.com>",
   "main": "lib/redisPubSub.js",
