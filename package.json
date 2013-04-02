@@ -1,0 +1,9 @@
+{
+  "name": "redis-pubsub",
+  "version": "0.0.1",
+  "dependencies": {
+    "nohm": "~0.9.3",
+    "hiredis": "~0.1.15",
+    "redis": "~0.8.2"
+  }
+}
